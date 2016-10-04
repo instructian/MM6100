@@ -1,6 +1,6 @@
 |week   |topics   |prepare   |complete   |resources   |notes   |
 |---|---|---|---|---|---|
-|one    |Introductions, book|buy the book second line|read chapter 1   |   |   |
+|one    |Introductions, book|buy the book|read chapter 1   |   |   |
 |two    |   |   |   |   |   |
 |three  |   |   |   |   |   |
 |four   |   |   |   |   |   |
