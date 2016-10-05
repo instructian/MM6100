@@ -1,13 +1,13 @@
-|week   |topics   |prepare   |complete   |resources   |notes   |
-|---|---|---|---|---|---|
-|one    |Introductions, book|buy the book|read chapter 1   |   |   |
-|two    |telling stories in the dark<br>discuss reading<br>prototype game   |   |   |   |   |
-|three  |   |   |   |   |   |
-|four   |   |   |   |   |   |
-|five   |   |   |   |   |   |
-|six    |   |   |   |   |   |
-|seven  |   |   |   |   |   |
-|eight  |   |   |   |   |   |
-|nine   |   |   |   |   |   |
-|ten    |   |   |   |   |   |
-|fina   |   |   |   |   |   |
+| week          | topics                                                                                                          | homework this week                                                                                                 | notes                             |
+|---------------|-----------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|-----------------------------------|
+| one - 9/22    | no class                                                                                                        |                                                                                                                    |                                   |
+| two -9/27     | Introductions, book                                                                                             | read chapter 1                                                                                                     | James to demo Print and Cut       |
+| three - 10/4  | Perform - telling stories in the darkDiscuss reading Play test and discuss - prototype game                     | refine paper prototype game                                                                                        |                                   |
+| four - 10/11  | Discuss V2W readingPlay test and discuss - prototype gameScreen Videos                                          | refine prototype game - 3d printed pieces                                                                          | James to demo 3D printer          |
+| five - 10/18  | Discuss V2W readingJames to demo laser cutter                                                                   | Read Hybrid Media ArticleOUTSIDE play test - prototype game                                                        | James to demo laser cutter        |
+| six - 10/25   | Intro to Protoyping CourseMichael to demo casting                                                               | Read about PrototypingPrepare 3D models for casting                                                                | Michael to demo Casting Aluminum? |
+| seven - 11/1  | Prototyping 1 - Make It Real Session                                                                            |                                                                                                                    |                                   |
+| eight - 11/8  | Prototyping 2 - Build to Think sections 1-5Present revised prototype game                                       | Sections 6-8 Try with friends and Iterate with your team at least once! Record video of the sessions with friends. |                                   |
+| nine - 11/22  | "Build to think" debrief share in class 10min maxPrototyping 3 - Plan for Field Tests                           | Prototyping - In the Field (~3hours)                                                                               |                                   |
+| ten - 11/29   | Present Prototyping 4 - In the FieldPresent prototype game                                                      | Refine and polish board game / Prepare prototype project presentation                                              |                                   |
+| finals - 12/6 | Final Full Presentation of Protoype 3 minute video/ 6 minute Pecha Kucha slidesFinal Presentation of Board Game |                                                                                                                    |                                   |
